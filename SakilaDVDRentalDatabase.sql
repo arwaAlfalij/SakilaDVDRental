@@ -22,7 +22,7 @@ ON p.customer_id = c.customer_id
 GROUP BY 1, 2
 ORDER BY 2,1
 
-/* ------------------------------------------------------------------------------------------------------------ */
+/* -------------------------------------------------------------------------------------------------------------- */
 
 /*Q2: Finally, provide a table with the family-friendly film category, each of the quartiles, and the corresponding
  count of movies within each combination of film category for each corresponding rental duration category. The resulting 
